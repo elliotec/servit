@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'servit'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.date        = '2014-02-17'
   s.summary     = "Serve and break"
   s.description = "A simple server gem that defaults to a page that can crash your computer."
