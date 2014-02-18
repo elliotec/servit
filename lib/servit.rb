@@ -1,7 +1,7 @@
 require 'socket'
 require 'uri'
 
-WEB_ROOT = './public' unless defined?(WEB_ROOT)
+WEB_ROOT = './public'
 
 CONTENT_TYPE_MAPPING = {
   'html' => 'text/html',
